@@ -1,6 +1,1 @@
-chave api
-AIzaSyAQLfqr0JEJD_Oxne2XrGFsnzGLj2x2b-k
 
-senha: Tbu1Wxbe6zsVxYsV
-
-mongodb+srv://raissamarques1996:Tbu1Wxbe6zsVxYsV@cluster0.hbgpp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
